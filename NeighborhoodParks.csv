@@ -1,0 +1,115 @@
+id,name,has_lights,park,field_usage,goal_post,infield_type,left_field_distance,center_field_distance,right_field_distance,backstop,neighborhood,council_district,ward,tract,public_works_division,pli_division,police_zone,fire_zone,latitude,longitude
+1914615260,Arlington Field 1,t,Arlington Park,Diamond Only,0,Skinned,160,230,290,NA,South Side Slopes,3,16,42003160800,3,16,3,22-Apr,40.41831418,-79.97500679
+1151740179,Armstrong,f,Armstrong Park,Diamond and Rectangular,0,Skinned,240,163,122,NA,South Side Flats,3,17,42003170200,3,17,3,24-Apr,40.42807417,-79.98566223
+971009139,Bandbox,f,Arsenal Park,Diamond Only,0,Skinned,135,200,150,NA,Lower Lawrenceville,7,6,42003060300,2,6,2,3-Mar,40.46633089,-79.96129932
+1581124728,Banksville,f,Banksville Park,Diamond Only,0,Skinned,304,354,373,NA,Banksville,2,20,42003202300,5,20,6,9-Apr,40.41392315,-80.03993982
+1052125703,Banksville School,t,Banksville School Park,Diamond Only,0,Skinned,180,175,185,NA,Banksville,2,20,42003202300,5,20,6,9-Apr,40.40705882,-80.03787026
+491692062,Bigbee,f,Emerald View Park - Bigbee Field Park,Rectangular Only,0,N/A,NA,NA,NA,NA,Allentown,3,18,42003180300,5,18,3,5-Apr,40.42784896,-80.00122333
+332143201,Bill Stoltz,t,Arlington Park,Diamond Only,0,Skinned,210,250,240,NA,South Side Slopes,3,16,42003160800,3,16,3,22-Apr,40.41862359,-79.97495898
+800768920,Brighton Heights Field 1,f,Brighton Heights Park,Diamond Only,0,Skinned,170,170,170,NA,Brighton Heights,1,27,42003270800,1,27,1,14-Jan,40.48858153,-80.03307241
+742572488,Brighton Heights Field 2,f,Brighton Heights Park,Diamond Only,0,Skinned,260,375,252,NA,Brighton Heights,1,27,42003270800,1,27,1,14-Jan,40.48815225,-80.032783
+183023484,Brighton Heights Field 3 - John Merry,f,Brighton Heights Park,Diamond Only,0,Skinned,310,333,327,NA,Brighton Heights,1,27,42003270800,1,27,1,14-Jan,40.48773906,-80.03253323
+228456835,Brighton Heights Field 4,f,Brighton Heights Park,Diamond Only,0,Skinned,196,240,180,NA,Brighton Heights,1,27,42003270800,1,27,1,14-Jan,40.48636583,-80.03122164
+2054874405,Brighton Heights Field 5,f,Brighton Heights Park,Diamond Only,0,Skinned,198,198,196,NA,Brighton Heights,1,27,42003270800,1,27,1,14-Jan,40.48603337,-80.03063053
+604996899,Brighton Heights Field 6 - Camelius Sangnini,f,Brighton Heights Park,Diamond Only,0,Skinned,198,198,198,NA,Brighton Heights,1,27,42003270800,1,27,1,14-Jan,40.48650188,-80.02986935
+1281324044,Bud Hammer,f,Bud Hammer Park,Diamond Only,0,Skinned,182,193,182,NA,Hazelwood,5,15,42003562900,3,15,4,12-Feb,40.42048565,-79.94657049
+456911521,Burgwin,t,Burgwin Park,Rectangular Only,1,N/A,NA,NA,NA,NA,Hazelwood,5,15,42003562300,3,15,4,13-Feb,40.40444837,-79.93733431
+72518444,Chadwick,f,Chadwick Park,Rectangular Only,2,N/A,NA,NA,NA,NA,Lincoln-Lemington-Belmar,9,12,42003561900,2,12,5,18-Mar,40.46566539,-79.89175382
+238269429,Chartiers,t,Chartiers Park,Diamond Only,0,Skinned,305,375,375,NA,Windgap,2,28,42003563000,5,28,6,16-Jan,40.45699572,-80.07407273
+1324608669,Cowley Field 1,t,Cowley Park,Diamond Only,0,Skinned,248,264,178,NA,Troy Hill,1,24,42003240600,1,24,1,2-Jan,40.45849173,-79.98896073
+1984325264,Cowley Field 2,t,Cowley Park,Diamond Only,0,Skinned,217,220,170,NA,Troy Hill,1,24,42003240600,1,24,1,2-Jan,40.45841345,-79.98938903
+1120335247,Dan Marino,t,Frazier Park,Diamond Only,0,Skinned,300,320,300,NA,South Oakland,3,4,42003040900,3,4,4,11-Feb,40.42925285,-79.95468111
+1075365641,Danny McGibbeny Memorial Field,f,Brookline Memorial Park,Diamond and Rectangular,2,Skinned,200,197,197,NA,Brookline,4,32,42003320600,5,32,6,26-Apr,40.39161055,-80.00688356
+303372721,Devlin,f,Devlin Field Park,Diamond Only,0,Skinned,292,300,296,NA,Arlington,3,16,42003561600,3,16,3,8-Apr,40.41404879,-79.96234371
+140274785,Dilworth Field 1 Lower,t,Emerald View Park - Mt. Washington Park,Diamond Only,0,Skinned,175,170,190,NA,Mount Washington,2,19,42003191400,5,19,3,27-Apr,40.42436008,-80.01478162
+1963449609,Dilworth Field 2 Upper,t,Emerald View Park - Mt. Washington Park,Diamond Only,0,Skinned,165,175,200,NA,Mount Washington,2,19,42003191400,5,19,3,27-Apr,40.4245104,-80.01418879
+1469969693,Dunbar Field 1,t,Dunbar Park,Diamond Only,0,Skinned,300,400,275,NA,Crafton Heights,2,28,42003281500,5,28,6,18-Jan,40.43891028,-80.05213701
+1230751611,Dunbar Field 2,t,Dunbar Park,Diamond Only,0,Skinned,275,372,235,NA,Crafton Heights,2,28,42003281500,5,28,6,18-Jan,40.4385953,-80.05252163
+1718657420,East Hills,f,East Hills Park,Diamond Only,0,Skinned,255,270,255,NA,East Hills,9,13,42003130600,2,13,5,19-Mar,40.4531361,-79.8695421
+195606578,East Liberty Park OMEGA,f,East Liberty Park,Diamond Only,0,Skinned,185,240,200,NA,East Liberty,9,11,42003111500,2,11,5,10-Mar,40.46211314,-79.91874201
+1661652882,Farmhouse,f,Highland Park,Diamond Only,0,Skinned,180,180,180,NA,Highland Park,7,11,42003980100,2,11,5,9-Mar,40.47647804,-79.9132423
+361762833,Fern Hollow,f,Frick Park,Rectangular Only,0,N/A,NA,NA,NA,NA,Squirrel Hill South,5,14,42003980300,3,14,4,16-Feb,40.42899697,-79.90121258
+322672382,Fifty-Seventh St ARCO,f,Fifty-Seventh Street Park,Diamond Only,0,Skinned,183,180,180,NA,Upper Lawrenceville,7,10,42003101100,2,10,2,5-Mar,40.48605613,-79.94630057
+1426269763,Fineview,t,Fineview Field Park,Diamond Only,0,Skinned,274,280,234,NA,Fineview,6,25,42003250900,1,25,1,10-Jan,40.45993808,-80.00425255
+961495598,Forbes & Braddock Field 2,f,Frick Park,Diamond Only,0,Skinned,408,362,267,NA,Regent Square,5,14,42003141000,3,14,4,16-Feb,40.43796375,-79.89773276
+195772748,Forbes and Braddock Field 1,f,Frick Park,Diamond Only,0,Skinned,370,386,260,NA,Regent Square,5,14,42003141000,3,14,4,16-Feb,40.43846489,-79.89770831
+1621765423,Fort Pitt,t,Fort Pitt Park,Rectangular Only,2,N/A,NA,NA,NA,NA,Garfield,9,10,42003101700,2,10,5,4-Mar,40.46943416,-79.9429147
+515590406,Fowler,t,Fowler Park,Rectangular Only,2,N/A,NA,NA,NA,NA,Perry South,6,26,42003261400,1,26,1,23-Jan,40.47010469,-80.01015353
+1799004578,Gardner,t,Gardner Park,Diamond Only,0,Skinned,264,257,273,NA,Troy Hill,1,24,42003240600,1,24,1,2-Jan,40.46161728,-79.98603738
+1132072066,Garvin,f,Garvin Park,Diamond Only,0,Skinned,170,175,188,NA,Perry North,1,26,42003260200,1,26,1,15-Jan,40.49260073,-80.01830274
+1249582327,Gladstone,f,Gladstone Park,Diamond Only,0,Skinned,250,290,167,NA,Hazelwood,5,15,42003562300,3,15,4,12-Feb,40.4151142,-79.93869253
+1961833311,Herschel Field 1 Lower,t,Herschel Park,Diamond and Rectangular,0,Skinned,311,368,350,NA,Elliott,2,20,42003562600,5,20,6,17-Jan,40.43940126,-80.04318168
+572722029,Herschel Field 2 Upper,t,Herschel Park,Diamond Only,0,Skinned,180,180,180,NA,Elliott,2,20,42003562600,5,20,6,17-Jan,40.44007219,-80.04433166
+912391510,Heth's Field 1,f,Heth's Park,Diamond and Rectangular,0,Skinned,376,315,195,NA,Highland Park,7,11,42003110200,2,11,5,9-Mar,40.47720822,-79.92774525
+243320968,Heth's Field 2,f,Heth's Park,Diamond and Rectangular,0,Skinned,362,270,182,NA,Highland Park,7,11,42003110200,2,11,5,9-Mar,40.47771852,-79.92746804
+976104904,Heth's Field 3,f,Heth's Park,Diamond Only,0,Skinned,105,105,105,NA,Highland Park,7,11,42003110200,2,11,5,9-Mar,40.47819748,-79.92739061
+1894204804,Jim Rawe,f,Alton Park,Rectangular Only,0,N/A,NA,NA,NA,NA,Beechview,4,19,42003191600,5,19,6,28-Apr,40.41472769,-80.02178985
+1591412883,Joe Natoli Field 1,t,Joe Natoli Park,Diamond and Rectangular,2,Skinned,340,360,285,NA,Morningside,7,10,42003101400,2,10,5,7-Mar,40.48415338,-79.9256077
+2120791036,Joe Natoli Field 2,t,Joe Natoli Park,Diamond and Rectangular,0,Skinned,265,360,237,NA,Morningside,7,10,42003101400,2,10,5,7-Mar,40.48372853,-79.92583066
+1492586226,Joe Natoli Field 3,t,Joe Natoli Park,Diamond and Rectangular,0,Grass,130,130,130,NA,Morningside,7,10,42003101400,2,10,5,7-Mar,40.48408182,-79.92633375
+616956001,John McGrane Field 1,t,Leslie Park,Diamond and Rectangular,0,Skinned,150,210,154,NA,Central Lawrenceville,7,9,42003090200,2,9,2,3-Mar,40.47288664,-79.95694904
+1332658922,John McGrane Field 2,t,Leslie Park,Diamond and Rectangular,0,Skinned,350,285,260,NA,Central Lawrenceville,7,9,42003090200,2,9,2,3-Mar,40.47244049,-79.95738627
+1216858315,Josh Gibson Field 1,t,Ammon Park,Diamond Only,0,Grass with Skinned Baselines,270,290,220,NA,Bedford Dwellings,6,5,42003050900,3,5,2,5-Feb,40.44967795,-79.97791071
+1148246855,Josh Gibson Field 2,t,Ammon Park,Diamond Only,0,Grass with Skinned Baselines,270,290,220,NA,Bedford Dwellings,6,5,42003050900,3,5,2,5-Feb,40.44951792,-79.97849941
+1846713475,Kennard,t,Kennard Park,Diamond and Rectangular,1,Skinned,415,405,295,NA,Terrace Village,6,5,42003051000,3,5,2,10-Feb,40.44226402,-79.97303532
+69555597,Larimer,f,Larimer Park,Rectangular Only,0,N/A,NA,NA,NA,NA,Larimer,9,12,42003120400,2,12,5,12-Mar,40.46630821,-79.91315032
+572751690,Loretta Miller,f,McKinley Park,Diamond Only,0,Skinned,195,175,140,NA,Beltzhoover,4,18,42003562400,5,18,3,7-Apr,40.41364272,-79.99746158
+467296944,Magee Field 1,t,Magee Park,Diamond Only,0,Skinned,328,340,215,NA,Greenfield,5,15,42003151700,3,15,4,15-Feb,40.42580297,-79.9376634
+1099665010,Magee Field 2,t,Magee Park,Diamond Only,0,Skinned,297,340,285,NA,Greenfield,5,15,42003151700,3,15,4,15-Feb,40.42530843,-79.93748538
+1554244676,Manchester,t,Manchester School Park,Diamond Only,0,Skinned,320,370,278,NA,Manchester,6,21,42003210700,1,21,1,8-Jan,40.45676266,-80.02481197
+1719658442,Marmaduke,f,Marmaduke Park,Diamond Only,0,Grass,200,150,150,NA,Brighton Heights,1,27,42003270100,1,27,1,14-Jan,40.48516535,-80.04368783
+315057042,Martin Luther King,f,Allegheny Commons,Diamond Only,0,Skinned,200,200,200,NA,Allegheny Center,1,22,42003562700,1,22,1,6-Jan,40.45509104,-80.00361787
+230955707,Mazeroski,f,Schenley Park,Diamond Only,0,Skinned,183,185,185,NA,Central Oakland,3,4,42003040500,3,4,4,11-Feb,40.44141704,-79.95211788
+143191788,Mcbride,f,McBride Park,Diamond Only,0,Grass with Skinned Baselines,269,291,196,NA,Lincoln Place,5,31,42003310200,3,31,4,20-Apr,40.36929033,-79.90756773
+40063038,McGonigle,f,McGonigle Park,Diamond Only,0,Skinned,185,197,190,NA,Sheraden,2,20,42003562500,5,20,6,16-Jan,40.46011542,-80.06576324
+629665982,McKinley Field 1,t,McKinley Park,Diamond and Rectangular,1,Skinned,385,285,190,NA,Beltzhoover,4,18,42003562400,5,18,3,7-Apr,40.41234291,-79.99932396
+493670492,McKnight,f,McKnight Park,Rectangular Only,0,N/A,NA,NA,NA,NA,Manchester,6,21,42003210700,1,21,1,8-Jan,40.45193965,-80.02340271
+1330092478,Mellon Field  1,t,Mellon Park,Diamond Only,0,Skinned,367,366,360,NA,Shadyside,8,7,42003070800,2,7,4,13-Mar,40.45427335,-79.91676889
+1397213066,Mellon Field  3,f,Mellon Park,Diamond Only,0,Skinned,192,200,189,NA,Shadyside,8,7,42003070800,2,7,4,13-Mar,40.45453692,-79.91614241
+130126849,Mellon Field 2,f,Mellon Park,Diamond Only,0,Skinned,178,198,179,NA,Shadyside,8,7,42003070800,2,7,4,13-Mar,40.45514826,-79.91536672
+56124231,Michael Flynn,f,Spring Garden Park,Diamond Only,0,Skinned,175,170,155,NA,Spring Garden,1,24,42003241200,1,24,1,24-Jan,40.46585808,-79.98577295
+704054857,Middle,f,Arsenal Park,Diamond Only,0,Skinned,200,200,200,NA,Lower Lawrenceville,7,6,42003060300,2,6,2,3-Mar,40.46715649,-79.96169906
+2123090156,Monongahela,f,Monongahela Park,Diamond Only,0,Grass,270,200,165,NA,South Side Slopes,3,16,42003160800,3,16,3,22-Apr,40.42213005,-79.96639994
+566274459,Moore Field 1,t,Moore Park,Diamond and Rectangular,2,Skinned,300,410,312,NA,Brookline,4,19,42003191700,5,19,6,26-Apr,40.40486291,-80.01258329
+842334084,Moore Field 2,f,Moore Park,Rectangular Only,0,,NA,NA,NA,NA,Brookline,4,19,42003191700,5,19,6,26-Apr,40.40496131,-80.01388915
+1452559467,Oakwood,f,Oakwood Park,Diamond Only,0,Skinned,180,180,180,NA,Oakwood,2,28,42003562800,5,28,6,19-Jan,40.42554811,-80.06583265
+2076919976,Officer Eric G. Kelly Memorial Field,f,Dinan Park,Diamond Only,0,Skinned,312,320,312,NA,Stanton Heights,7,10,42003101800,2,10,5,7-Mar,40.48368418,-79.93350329
+309619084,Officer Paul J. Sciullo II Memorial Field,t,Paul J. Sciullo II Memorial Park,Diamond Only,0,Skinned,311,260,241,NA,Lower Lawrenceville,7,8,42003060300,2,8,2,1-Mar,40.46237693,-79.95468895
+1301756446,Officer Stephen J. Mayhle Memorial Park,f,Brookline Memorial Park,Diamond Only,0,Skinned,130,130,130,NA,Brookline,4,32,42003320600,5,32,6,25-Apr,40.39046411,-80.00695142
+1143237221,Olympia Baseball Field,t,Emerald View Park - Olympia Park,Diamond Only,0,Skinned,300,395,365,NA,Mount Washington,2,19,42003190300,5,19,3,1-Apr,40.43085721,-80.01848619
+1785007482,Ormsby,f,Ormsby Park,Diamond Only,0,Skinned,155,185,160,NA,South Side Flats,3,16,42003160900,3,16,3,24-Apr,40.42986593,-79.97407431
+1242321225,Oval,t,Schenley Park,Rectangular Only,0,N/A,NA,NA,NA,NA,Squirrel Hill South,5,14,42003980500,3,14,4,8-Feb,40.43250524,-79.94340916
+362031557,Panther Hollow,f,Schenley Park,Rectangular Only,0,N/A,NA,NA,NA,NA,South Oakland,3,4,42003040900,3,4,4,12-Feb,40.43101462,-79.95033969
+1776153766,Paulson,t,Paulson Park,Diamond Only,0,Skinned,250,255,280,NA,Lincoln-Lemington-Belmar,9,12,42003120300,2,12,5,15-Mar,40.46854463,-79.90025096
+53964999,Phillips,t,Phillips Park,Rectangular Only,2,N/A,NA,NA,NA,NA,Carrick,4,29,42003290400,3,29,3,23-Apr,40.39279236,-79.99182757
+1346212440,Quarry,t,Southside Park,Rectangular Only,2,N/A,NA,NA,NA,NA,South Side Slopes,3,17,42003170600,3,17,3,22-Apr,40.42033585,-79.9804197
+1632748081,Ray Miller,f,Blair Street Park,Diamond Only,0,Grass,197,200,165,NA,Hazelwood,5,15,42003562900,3,15,4,13-Feb,40.40382385,-79.94566111
+1340126918,Richie McCabe,f,Allegheny Commons,Diamond and Rectangular,2,Skinned,280,320,290,NA,Allegheny Center,1,22,42003562700,1,22,1,7-Jan,40.45437202,-80.00717219
+1016428151,Riverview,t,Riverview Park,Rectangular Only,0,N/A,NA,NA,NA,NA,Perry North,1,26,42003980400,1,26,1,15-Jan,40.48910488,-80.02118742
+2145399566,Rye-Molt,f,Young Field Park,Diamond Only,0,Skinned,220,270,213,NA,Marshall-Shadeland,1,27,42003271500,1,27,1,14-Jan,40.4730597,-80.03239525
+1728440907,Sam Bryen Field 1,t,Brookline Memorial Park,Diamond Only,0,Skinned,200,200,200,NA,Brookline,4,32,42003320600,5,32,6,25-Apr,40.38987922,-80.00691636
+1440646574,Sam Bryen Field 2,t,Brookline Memorial Park,Diamond Only,0,Skinned,200,200,200,NA,Brookline,4,32,42003320600,5,32,6,25-Apr,40.389388,-80.00650968
+2062116391,Schenley Field  2,f,Schenley Park,Rectangular Only,0,N/A,NA,NA,NA,NA,Squirrel Hill South,5,14,42003980500,3,14,4,8-Feb,40.43345527,-79.94218974
+2008449223,Schenley Field  3,f,Schenley Park,Rectangular Only,0,N/A,NA,NA,NA,NA,Squirrel Hill South,5,14,42003980500,3,14,4,8-Feb,40.43360798,-79.94095189
+1077779724,Scherer,f,Scherer Park,Diamond Only,0,Skinned,175,175,200,NA,Spring Hill-City View,1,26,42003262000,1,26,1,11-Jan,40.46666724,-79.99961778
+940222561,Sheraden Field 1,t,Sheraden Park,Diamond and Rectangular,0,Skinned,200,200,185,NA,Sheraden,2,20,42003562500,5,20,6,16-Jan,40.4577312,-80.05934351
+1440688322,Sheraden Field 2,f,Sheraden Park,Diamond Only,0,Skinned,330,230,205,NA,Sheraden,2,20,42003562500,5,20,6,16-Jan,40.45975784,-80.061061
+511331628,Southside Field  1,t,Southside Park,Diamond Only,0,Grass with Skinned Baselines,200,200,200,NA,South Side Slopes,3,16,42003160800,3,16,3,22-Apr,40.41878296,-79.97875109
+87399270,Spring Hill,t,Spring Hill Park,Diamond Only,0,Skinned,270,310,315,NA,Spring Hill-City View,1,26,42003262000,1,26,1,11-Jan,40.47032069,-79.99233115
+430836911,Stan Lederman,t,Frick Park,Diamond Only,0,Skinned,189,193,190,NA,Squirrel Hill South,5,14,42003980300,3,14,4,21-Feb,40.42981022,-79.91340111
+865000373,Sullivan,t,Sullivan Park,Rectangular Only,1,,NA,NA,NA,NA,Lower Lawrenceville,7,6,42003060300,2,6,2,6-Mar,40.46250255,-79.9635156
+1996717338,Vanucci Field 1,t,Vanucci Park,Diamond Only,0,Skinned,175,190,183,NA,Beechview,4,19,42003191600,5,19,6,28-Apr,40.41490111,-80.01719734
+17732151,Vanucci Field 2,t,Vanucci Park,Diamond Only,0,Skinned,262,240,325,NA,Beechview,4,19,42003191600,5,19,6,28-Apr,40.41480881,-80.01816313
+1351301280,Volunteers Field 1,t,Volunteers Park,Diamond Only,0,Skinned,185,200,185,NA,Carrick,4,29,42003290100,3,29,3,23-Apr,40.39723418,-79.99347879
+423031270,Volunteers Field 2,t,Volunteers Park,Diamond Only,0,Skinned,330,300,327,NA,Carrick,4,29,42003290100,3,29,3,23-Apr,40.39616782,-79.9924074
+1670802431,Volunteers Field 3,f,Volunteers Park,Diamond Only,0,Skinned,195,175,196,NA,Carrick,4,29,42003290100,3,29,3,23-Apr,40.39813954,-79.99260253
+1701480993,Volunteers Field 4,f,Volunteers Park,Diamond Only,0,Skinned,105,105,125,NA,Carrick,4,29,42003290100,3,29,3,23-Apr,40.39738996,-79.99444553
+329648686,Wabash,f,Wabash Park,Diamond and Rectangular,0,Grass,NA,NA,NA,NA,West End,2,20,42003562600,5,20,6,17-Jan,40.43896165,-80.03413821
+451363663,Warrington,f,Warrington Park,Diamond Only,0,Skinned,206,276,200,NA,Beltzhoover,3,18,42003562400,5,18,3,5-Apr,40.42141426,-80.00169191
+1597058500,West Penn Field 1,t,West Penn Park,Diamond and Rectangular,0,Skinned,269,330,365,NA,Polish Hill,7,6,42003060500,6,6,2,6-Feb,40.45557937,-79.97117551
+707227758,Westwood Field 1,t,Westwood School Park,Diamond and Rectangular,0,Skinned,347,230,187,NA,Westwood,2,28,42003563100,5,28,6,18-Jan,40.43077283,-80.05044239
+88488317,Westwood Field 2,t,Westwood School Park,Diamond and Rectangular,0,Skinned,360,255,160,NA,Westwood,2,28,42003563100,5,28,6,18-Jan,40.43028489,-80.05022829
+1139931087,Wightman,f,Wightman Park,Diamond Only,0,Skinned,268,195,167,NA,Squirrel Hill North,8,14,42003140300,3,14,4,18-Feb,40.44340245,-79.92739178
+916748391,Willie Stargell,t,Homewood Park,Diamond and Rectangular,0,Skinned,365,295,225,NA,Homewood South,9,13,42003130300,2,13,5,17-Mar,40.45381487,-79.89970807
+2031862261,Winters,f,Winters Park,Diamond Only,0,Skinned,230,210,165,NA,South Side Slopes,3,17,42003170600,3,17,3,3-Apr,40.42230596,-79.98151326
+2136373152,Olympia Soccer Field,t,Emerald View Park - Olympia Park,Rectangular Only,0,,NA,NA,NA,NA,Mount Washington,2,19,42003190300,5,19,3,1-Apr,40.43029954,-80.01866221
