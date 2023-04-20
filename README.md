@@ -12,7 +12,7 @@ Josh Hine: jrh229@pitt.edu
  Median Death Amount/Age per Nieghborhood https://data.wprdc.org/dataset/median-age-death
  
 Travis Larson: trl72@pitt.edu
-  Crime Rates/Arrests https://data.wprdc.org/dataset/arrest-data 
+  Crime Rates/Arrests https://data.wprdc.org/dataset/pgh/resource/204f63f4-296f-4f1d-bbdd-946b183fa5a0 
   
 ### Description: 
 Our goal was to find the best neighborhood to raise a family in. Using the number of parks, crime rates, and deaths per neighborhood as the metrics.
